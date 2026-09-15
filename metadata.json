@@ -1,0 +1,6 @@
+{
+  "name": "JEE Command AI",
+  "description": "Expert high-yield learning engine for JEE Main & Advanced aspirants featuring PDF extraction, adaptive DPPs, mock test engine, digital error notebook, multi-concept fusion, and Socratic doubt solving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
